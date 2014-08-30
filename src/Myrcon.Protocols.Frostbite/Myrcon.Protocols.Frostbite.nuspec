@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Myrcon.Protocols.Frostbite</id>
+    <version>$version$</version>
+    <title>Myrcon Protocols Frostbite</title>
+		<authors>Myrcon Pty. Ltd.</authors>
+		<owners>Myrcon Pty. Ltd.</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl>
+    <projectUrl>https://myrcon.com</projectUrl>
+    <iconUrl>https://myrcon.com/assets/images/logo.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Protocol implementation for Frostbite based games</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>Procon Potato Protocol Frostbite</tags>
+  </metadata>
+  <files>
+    <file src="..\..\builds\Release\Packages\Myrcon.Protocols.Frostbite.2.0.0\lib\net40\*.dll" target="lib\net40\" />
+    <file src="..\..\builds\Release\Packages\Myrcon.Protocols.Frostbite.2.0.0\lib\net40\*.xml" target="lib\net40\" />
+    <file src="..\..\builds\Release\Packages\Myrcon.Protocols.Frostbite.2.0.0\lib\net40\*.pdb" target="lib\net40\" />
+    <file src="..\..\builds\Release\Packages\Myrcon.Protocols.Frostbite.2.0.0\lib\net40\*.json" target="content\" />
+    <file src="..\..\builds\Release\Packages\Myrcon.Protocols.Frostbite.2.0.0\lib\net40\*\**" target="content\" />
+  </files>
+</package>
