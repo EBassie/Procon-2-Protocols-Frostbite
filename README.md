@@ -1,5 +1,5 @@
 # Procon Potato (Procon 2) - Frostbite Protocol #
-**Frostbite Protocol Package Build Status**: [![Packages Build Status](http://teamcity.myrcon.com/app/rest/builds/buildType:(id:Myrcon_Procon2_NugetPackagesFrostbiteProtocol)/statusIcon)](http://teamcity.myrcon.com/viewType.html?buildTypeId=Myrcon_Procon2_NugetPackagesFrostbiteProtocol)  
+**Frostbite Protocol Package Build Status**: [![Packages Build Status](http://teamcity.myrcon.com/app/rest/builds/buildType:(id:Myrcon_Procon2_NugetPackagesFrostbiteProtocols)/statusIcon)](http://teamcity.myrcon.com/viewType.html?buildTypeId=Myrcon_Procon2_NugetPackagesFrostbiteProtocols)  
 
 Procon Potato Frostbite Protocol is developed by [Myrcon Ptd. Ltd.](https://myrcon.com "Official homepage of Myrcon Ptd. Ltd.").
 
