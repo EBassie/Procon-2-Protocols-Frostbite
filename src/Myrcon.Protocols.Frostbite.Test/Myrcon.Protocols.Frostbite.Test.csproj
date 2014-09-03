@@ -35,15 +35,15 @@
       <HintPath>..\packages\NUnit.2.6.3\lib\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="Potato.Net.Shared">
-      <HintPath>..\packages\Myrcon.Potato.Shared.2.0.159\lib\net40\Potato.Net.Shared.dll</HintPath>
+      <HintPath>..\packages\Myrcon.Potato.Shared.2.0.160\lib\net40\Potato.Net.Shared.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TestBattlefield\TestBattlefield4\TestBanListListDispatchHandler.cs" />
-    <Compile Include="TestBattlefield\TestPlayerOnKillDispatchHandler.cs" />
+    <Compile Include="TestGenerations\TestSecond\TestBanListListDispatchHandler.cs" />
+    <Compile Include="TestGenerations\TestSecond\TestPlayerOnKillDispatchHandler.cs" />
     <Compile Include="TestConfig\TestLoad.cs" />
     <Compile Include="TestBattlefield4BanList.cs" />
   </ItemGroup>
@@ -51,12 +51,12 @@
     <None Include="..\Potato.licenseheader">
       <Link>Potato.licenseheader</Link>
     </None>
-    <None Include="app.config" />
+    <None Include="Geolocation\Maxmind\GeoIP.dat" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Myrcon.Protocols.Frostbite\Myrcon.Protocols.Frostbite.csproj">
-      <Project>{299a4619-928d-4d7f-8857-644b5f57f6fc}</Project>
+      <Project>{299A4619-928D-4D7F-8857-644B5F57F6FC}</Project>
       <Name>Myrcon.Protocols.Frostbite</Name>
     </ProjectReference>
   </ItemGroup>
