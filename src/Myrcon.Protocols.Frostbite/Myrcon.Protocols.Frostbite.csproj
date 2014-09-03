@@ -103,7 +103,6 @@
     <None Include="..\Potato.licenseheader">
       <Link>Potato.licenseheader</Link>
     </None>
-    <None Include="Geolocation\Maxmind\GeoIP.dat" />
     <None Include="Myrcon.Protocols.Frostbite.nuspec" />
     <None Include="packages.config" />
   </ItemGroup>

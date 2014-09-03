@@ -51,7 +51,6 @@
     <None Include="..\Potato.licenseheader">
       <Link>Potato.licenseheader</Link>
     </None>
-    <None Include="Geolocation\Maxmind\GeoIP.dat" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
